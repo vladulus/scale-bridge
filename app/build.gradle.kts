@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "uk.impulsive.scalebridge"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "uk.impulsive.scalebridge"
